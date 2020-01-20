@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Stack">
+      <UniqueIdentifier>{5b8776b5-f9a8-4d0c-a65a-a583689f0bd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Stack">
+      <UniqueIdentifier>{65ff9e04-1d24-4b17-9cce-30b8f0512a52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Circular Queue">
+      <UniqueIdentifier>{64698704-30fc-40f4-9dae-accf48f58f0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Circular Queue">
+      <UniqueIdentifier>{3055ee4f-632e-4a6e-ad41-41dabc740b03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Queue">
+      <UniqueIdentifier>{e4f69db3-057e-4434-9b09-51dbbcb79300}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Queue">
+      <UniqueIdentifier>{7c1c8410-7a17-4c2e-a11c-554ec281a705}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\StackQueue">
+      <UniqueIdentifier>{86d63cfd-c9d6-4e85-a872-6de93377828f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\StackQueue">
+      <UniqueIdentifier>{826f9f40-5754-49cc-8ac7-a01239795dcc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StackMenu.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularQueue.cpp">
+      <Filter>Source Files\Circular Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularQueueMenu.cpp">
+      <Filter>Source Files\Circular Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue.cpp">
+      <Filter>Source Files\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueMenu.cpp">
+      <Filter>Source Files\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="GetInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StackQueue.cpp">
+      <Filter>Source Files\StackQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="StackQueueMenu.cpp">
+      <Filter>Source Files\StackQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>Source Files\Stack</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Stack.h">
+      <Filter>Header Files\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="StackMenu.h">
+      <Filter>Header Files\Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularQueue.h">
+      <Filter>Header Files\Circular Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularQueueMenu.h">
+      <Filter>Header Files\Circular Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="GetInt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>Header Files\Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="QueueMenu.h">
+      <Filter>Header Files\Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="StackQueue.h">
+      <Filter>Header Files\StackQueue</Filter>
+    </ClInclude>
+    <ClInclude Include="StackQueueMenu.h">
+      <Filter>Header Files\StackQueue</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

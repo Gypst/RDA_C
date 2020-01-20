@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project24.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BinaryTreeMenu.cpp
+  TreapMenu.cpp
+C:\Users\MrDmi\Desktop\Структура Данных\Lab5-Tree+Treap\TreapMenu.cpp(39,6): warning C4101: 'option': unreferenced local variable
+  Generating Code...
+  Project24.vcxproj -> C:\Users\MrDmi\Desktop\Структура Данных\Lab5-Tree+Treap\Debug\Lab5-Tree+Treap.exe

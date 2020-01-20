@@ -1,0 +1,4 @@
+﻿  MenuList.cpp
+C:\Users\User\Desktop\дима\Lab2-LinkedList\MenuList.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\User\Desktop\дима\Lab2-LinkedList\MenuList.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Lab2-LinkedList.vcxproj -> C:\Users\User\Desktop\дима\Lab2-LinkedList\Debug\Lab2-LinkedList.exe

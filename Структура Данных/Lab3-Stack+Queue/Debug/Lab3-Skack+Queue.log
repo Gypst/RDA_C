@@ -1,0 +1,8 @@
+﻿  CircularQueueMenu.cpp
+  MainMenu.cpp
+C:\Users\MrDmi\Desktop\Структура Данных\Lab3-Stack+Queue\MainMenu.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  QueueMenu.cpp
+  StackMenu.cpp
+  StackQueueMenu.cpp
+  Generating Code...
+  Lab3-Skack+Queue.vcxproj -> C:\Users\MrDmi\Desktop\Структура Данных\Lab3-Stack+Queue\Debug\Lab3-Skack+Queue.exe

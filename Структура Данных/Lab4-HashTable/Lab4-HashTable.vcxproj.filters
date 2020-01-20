@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Dictionary">
+      <UniqueIdentifier>{9607f157-12a7-45c2-953d-24bc8294f993}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Dictionary">
+      <UniqueIdentifier>{e87e4bde-f8ac-4c51-9c36-16728628e736}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\HashTable">
+      <UniqueIdentifier>{cf9bdbee-1f45-406d-8289-ff9aaa9a4c9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\HashTable">
+      <UniqueIdentifier>{6b5c12dd-c6db-425f-956b-431a64345c1d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dictionary.h">
+      <Filter>Header Files\Dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="HashTable.h">
+      <Filter>Header Files\HashTable</Filter>
+    </ClInclude>
+    <ClInclude Include="DictionaryMenu.h">
+      <Filter>Header Files\Dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="HashTableMenu.h">
+      <Filter>Header Files\HashTable</Filter>
+    </ClInclude>
+    <ClInclude Include="GetInt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dictionary.cpp">
+      <Filter>Source Files\Dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="HashTable.cpp">
+      <Filter>Source Files\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="DictionaryMenu.cpp">
+      <Filter>Source Files\Dictionary</Filter>
+    </ClCompile>
+    <ClCompile Include="HashTableMenu.cpp">
+      <Filter>Source Files\HashTable</Filter>
+    </ClCompile>
+    <ClCompile Include="GetInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
