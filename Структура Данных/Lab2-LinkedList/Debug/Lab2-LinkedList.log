@@ -1,4 +1,10 @@
-﻿  MenuList.cpp
-C:\Users\User\Desktop\дима\Lab2-LinkedList\MenuList.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\User\Desktop\дима\Lab2-LinkedList\MenuList.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-  Lab2-LinkedList.vcxproj -> C:\Users\User\Desktop\дима\Lab2-LinkedList\Debug\Lab2-LinkedList.exe
+﻿  List.cpp
+  MenuList.cpp
+C:\_home\_Repo\Структура Данных\Lab2-LinkedList\MenuList.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\_home\_Repo\Структура Данных\Lab2-LinkedList\MenuList.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Node.cpp
+  Source.cpp
+C:\_home\_Repo\Структура Данных\Lab2-LinkedList\MenuList.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\_home\_Repo\Структура Данных\Lab2-LinkedList\Source.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Lab2-LinkedList.vcxproj -> C:\_home\_Repo\Структура Данных\Lab2-LinkedList\Debug\Lab2-LinkedList.exe
