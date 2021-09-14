@@ -1,0 +1,17 @@
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\bin\Debug\netcoreapp3.1\GM-CAD-lab1.exe
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\bin\Debug\netcoreapp3.1\GM-CAD-lab1.deps.json
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\bin\Debug\netcoreapp3.1\GM-CAD-lab1.runtimeconfig.json
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\bin\Debug\netcoreapp3.1\GM-CAD-lab1.runtimeconfig.dev.json
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\bin\Debug\netcoreapp3.1\GM-CAD-lab1.dll
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\bin\Debug\netcoreapp3.1\GM-CAD-lab1.pdb
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\obj\Debug\netcoreapp3.1\GM-CAD-lab1.csproj.AssemblyReference.cache
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\obj\Debug\netcoreapp3.1\GM_CAD_lab1.Form1.resources
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\obj\Debug\netcoreapp3.1\GM-CAD-lab1.csproj.GenerateResource.cache
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\obj\Debug\netcoreapp3.1\GM-CAD-lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\obj\Debug\netcoreapp3.1\GM-CAD-lab1.AssemblyInfoInputs.cache
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\obj\Debug\netcoreapp3.1\GM-CAD-lab1.AssemblyInfo.cs
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\obj\Debug\netcoreapp3.1\GM-CAD-lab1.csproj.CoreCompileInputs.cache
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\obj\Debug\netcoreapp3.1\GM-CAD-lab1.dll
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\obj\Debug\netcoreapp3.1\GM-CAD-lab1.pdb
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\obj\Debug\netcoreapp3.1\GM-CAD-lab1.genruntimeconfig.cache
+C:\Users\MrDmi\source\repos\GM-CAD-lab1\obj\Debug\netcoreapp3.1\GM_CAD_lab1.Properties.Resources.resources
